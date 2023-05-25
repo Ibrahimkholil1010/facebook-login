@@ -1,0 +1,211 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.header-area,.container{
+	background:#3b5998;
+	padding:20px 0px;
+	font-family:helvetica,arial,sans-serif;
+}
+.header-area:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.maddile-area{
+	width:80%;
+	margin:auto;
+}
+
+.logo-area img{
+	width:200px;
+	
+}
+.logo-area{
+	width:60%;
+	float:left;
+	
+}.logo-area a{
+	padding-top:19px;
+	display:block;
+	
+	
+}
+.seaced-login a:hover{
+	text-decoration:underline;
+	
+	
+}
+
+.login-area{
+	width:40%;
+	float:left;
+}
+.first-login{
+	float:left;
+}	
+.seaced-login{
+	float:left;
+}
+.seaced-login a{
+	text-decoration:none;
+	color:#9cb4d8;
+}
+.submit-area{
+	float:left;
+	
+}
+
+.submit-area{
+	padding-top:19px;
+}
+.amader-login:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.login-area form{
+	float:right;
+}
+.login-area input{
+	display:block;
+	margin-right:10px;
+	font-size:12px;
+}
+.login-area label{
+	color:#fff;
+	font-size: 12px;
+	margin-bottom:5px;
+	display:block;
+	
+
+
+}
+.signup-area{
+	background: linear-gradient(#ffffff, #d4d9e8);
+}
+.signup-area:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.maiddle-area{
+	margin:auto;
+	width:80%;
+}
+.left-area p {
+	font-size:22px;
+	font-weight:bold;
+	color:#0e385f;
+	
+	width:80%;
+}
+
+.left-area img {
+	cursor:pointer;
+}
+.right-area{
+	width:40%;
+	float:left;
+}
+.left-area{
+	width:60%;
+	float:left;
+}
+.right-area h2{
+	font-size:35px;
+	color:#333333;
+	margin-bottom:5px;
+}
+.right-area >p{
+	font-size:19px;
+	color:#333333;
+	font-weight:bold;
+	margin:10px 0px;
+}
+.right-area input[type=text],.right-area input[type=password]{
+	width:100%;
+	font-size:15px;
+	padding:5px;
+	margin:5px 0px;
+	border-radius: 3px;
+	border:1px solid #bdc7d8;
+	box-sizing: border-box;
+}
+.right-area .frist-form:after{
+	content: '';
+	display:block;
+	clear:both;
+}
+.right-area .frist-form input:nth-child(1){
+	float:left;
+	width:49%;
+	
+}
+.right-area .frist-form input:nth-child(2){
+	float:right;
+	width:49%;
+	
+}
+.birthday-area select{
+	padding:3px;
+	font-size:15px;
+	border: 1px solid #bdc7d8;
+}
+
+
+.brith:after{
+	content:'';
+	display:block;
+	clear:both;
+}
+.link{
+	float:left;
+	width:160px;
+	margin-left:10px;
+}
+.birthday-area{
+	float:left;
+	
+}
+
+.link a{
+	text-decoration:none;
+	font-size:12px;
+	color:#365899;
+}
+.hello label{
+	color:#333;
+	cursor:pointer;
+	font-size:20px;
+	margin-top:10px;
+	display:inline-block;
+}
+.hi input{
+	font-size:18px;
+	
+	padding:10px 40px;
+	background: linear-gradient(#67ae55,#578843);
+	border-radius:5px;
+	border-color:#3b6e22 #3b6e22 #2c5115;
+	cursor:pointer;
+	margin-bottom:20px;
+}
+
+
+
+
+
+
+
+.container{
+	background-color: #67799b !important;
+	text-align:center;
+	
+}
+.container a{
+	font-family:sans-serif;
+	color:#fff;
+	text-decoration: none;
+}
